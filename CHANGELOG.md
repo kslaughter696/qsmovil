@@ -1,5 +1,8 @@
 # Change Log
 
+## QuickSale Móvil v0.5.9.1 - Actalizado el 09 de Febrero, 2015. Compilación 731
+  * Corregidos los bugs del testeo del 06 de Febrero
+
 ## QuickSale Móvil v0.5.9.0 - Actalizado el 05 de Febrero, 2015. Compilación 728
   * Agregado el control de numpad/keypad en Ventas, Inventarios y Pedidos.
   * Agregado el control de datepicker en reportes.
