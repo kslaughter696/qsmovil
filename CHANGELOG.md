@@ -1,5 +1,14 @@
 # Change Log
 
+## QuickSale Móvil v0.5.10.0 - Actalizado el 13 de Febrero, 2015. Compilación 734
+  * Eliminación de LocalStorage al cerrar ventas y pedidos. Optimización de la memoria.
+  * Implementación de impuestos en lugar de IVA en ventas.
+  * Implementación de impuestos en lugar de IVA en pedidos.
+  * Correción de errores en ventas y pedidos.
+  * Correción en ver pedidos mostrando cantidades negativas.
+  * Cambio de cantidad en Surtir pedido actualiza el impuesto del producto.
+  * Corección en la validación de cantidad y descuento en Pedidos y Ventas.
+
 ## QuickSale Móvil v0.5.9.1 - Actalizado el 09 de Febrero, 2015. Compilación 731
   * Corregidos los bugs del testeo del 06 de Febrero
 
