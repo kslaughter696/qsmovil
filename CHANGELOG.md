@@ -4,7 +4,7 @@
   * Reenvio de facturas a un correo personalizado.
   * Cancelación de facturas.
 
-## QuickSale Móvil v0.6.0.0 - Actualizado el 25 de Febrero, 2015. Compilación 750
+## QuickSale Móvil v0.6.0.0 - Actualizado el 25 de Febrero, 2015. Compilación 746
   * Modulo de facturación.
   * Facturación de ventas realizadas.
 
