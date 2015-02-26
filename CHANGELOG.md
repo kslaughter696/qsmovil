@@ -1,8 +1,9 @@
 # Change Log
 
-## QuickSale Móvil v0.6.1.0 - Actualizado el 26 de Febrero, 2015. Compilación 758
+## QuickSale Móvil v0.6.1.0 - Actualizado el 26 de Febrero, 2015. Compilación 761
   * Reenvio de facturas a un correo personalizado.
   * Cancelación de facturas.
+  * Filtrado doble en la ventana de facturación.
 
 ## QuickSale Móvil v0.6.0.0 - Actualizado el 25 de Febrero, 2015. Compilación 746
   * Modulo de facturación.
