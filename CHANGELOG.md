@@ -1,9 +1,38 @@
 # Change Log
 
-## QuickSale Móvil v0.6.1.0 - Actualizado el 26 de Febrero, 2015. Compilación 761
+## QuickSale Móvil v1.2.0.0 - Actualizado el 09 de Junio, 2015. Compilación 944
+  * Nuevo módulo de actualización desde AppManager
+
+## QuickSale Móvil v1.0.1.1 - Actualizado el 03 de Junio, 2015. Compilación 911
+  * Se ocultó pedidos hasta corregir los errores
+
+## QuickSale Móvil v1.0.1.0 - Actualizado el 03 de Junio, 2015. Compilación 908
+  * Facturación dinámica.
+  * Algunas mejoras y corrección de errores.
+
+## QuickSale Móvil v1.0.0.0 - Actualizado el 16 de Mayo, 2015. Compilación 885
+  * Módulo de seguridad para multiple instalación en dispositivos.
+  * Primer release candidate.
+
+## QuickSale Móvil v0.7.1.0 - Actualizado el 14 de Marzo, 2015. Compilación 885
+  * Cambio en el proceso de verificación.
+  * Corrección de bugs y mejoras.
+
+## QuickSale Móvil v0.7.0.1 - Actualizado el 12 de Marzo, 2015. Compilación 885
+  * Correción del error inesperado al iniciar la aplicación.
+  * Obtiene el modelo del dispositivo.
+
+## QuickSale Móvil v0.7.0.0 - Actualizado el 11 de Marzo, 2015. Compilación 767
+  * Implementada la comprobación de conexión.
+  * Implementada la validación del dispositivo en la base de datos.
+
+## QuickSale Móvil v0.6.2.0 - Actualizado el 02 de Marzo, 2015. Compilación 767
+  * Mejores en la interfaz gráfica.
+  * Deshabilitación del botón de return.
+
+## QuickSale Móvil v0.6.1.0 - Actualizado el 26 de Febrero, 2015. Compilación 758
   * Reenvio de facturas a un correo personalizado.
   * Cancelación de facturas.
-  * Filtrado doble en la ventana de facturación.
 
 ## QuickSale Móvil v0.6.0.0 - Actualizado el 25 de Febrero, 2015. Compilación 746
   * Modulo de facturación.
